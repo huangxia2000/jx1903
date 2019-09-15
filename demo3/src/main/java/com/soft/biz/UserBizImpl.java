@@ -6,7 +6,6 @@ import com.soft.entity.TblUser;
 
 import java.util.List;
 
-public class UserBizImpl implements  UserBiz{
 
     private UserDao userDao = new UserDaoImpl();
     @Override
