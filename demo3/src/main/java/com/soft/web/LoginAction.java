@@ -12,7 +12,7 @@ import java.util.Map;
 
 public class LoginAction implements   SessionAware {
 
-
+private int a=0;
 private TblUser user;
 private String uname;
 private Map<String ,String>remap = new HashMap<String,String>();
