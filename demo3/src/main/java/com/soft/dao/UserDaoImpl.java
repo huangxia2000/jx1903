@@ -12,7 +12,7 @@ public class UserDaoImpl implements  UserDao {
     @Override
     public TblUser findUserByUser(TblUser user) {
 
-
+ int a =0;
         return new TblUser("admin","123");
     }
 
