@@ -6,6 +6,7 @@ import java.util.List;
 public class TblUser {
     private String uname;
     private  String upwd;
+    private String number;
     private List<String> clist =new ArrayList<String>();
     public TblUser( ) {
 
