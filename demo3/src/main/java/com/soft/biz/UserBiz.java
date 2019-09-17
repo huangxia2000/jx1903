@@ -4,7 +4,7 @@ import com.soft.entity.TblUser;
 
 import java.util.List;
 
-public interface UserBiz {
+public interface UserBiz {ass
     public TblUser login(String uname, String upwd);
     public boolean regUser(TblUser user);
     public List<TblUser>  findByName(String uname, int pageNo);
