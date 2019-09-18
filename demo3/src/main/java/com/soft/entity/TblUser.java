@@ -8,7 +8,7 @@ public class TblUser {
     private  String upwd;
 
     private String number;
-
+    private String number1;
     private int a=0;
 
     private List<String> clist =new ArrayList<String>();
