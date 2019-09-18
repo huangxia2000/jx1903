@@ -7,7 +7,6 @@ public class TblUser {
     private String uname;
     private  String upwd;
 
-    private String number;
 
     private int a=0;
 
